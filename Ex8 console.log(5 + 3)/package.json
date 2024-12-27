@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}

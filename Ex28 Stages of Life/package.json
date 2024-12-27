@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  },
+  "name": "ex28-stages-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^6.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
